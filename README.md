@@ -40,3 +40,11 @@ Identificar operadores con bajo desempeño y proponer estrategias de mejora basa
  - Pruebas de hipótesis
  - Detección de anomalías
  - Recomendaciones de negocio
+
+   ## Estructura del repositorio
+
+├── Proyecto final - Entrega del proyecto.ipynb  
+├── telecom.csv  
+├── telecom_clients.csv  
+├── telecom_dataset_new.csv  
+└── README.md
