@@ -48,3 +48,11 @@ Identificar operadores con bajo desempeño y proponer estrategias de mejora basa
 ├── telecom_clients.csv  
 ├── telecom_dataset_new.csv  
 └── README.md
+
+## Cómo ejecutar el proyecto
+
+1. Clonar el repositorio.
+2. Instalar dependencias:
+   pip install pandas scikit-learn matplotlib seaborn
+3. Abrir el notebook:
+   jupyter notebook customer-churn-prediction.ipynb
