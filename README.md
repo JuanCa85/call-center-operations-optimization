@@ -87,16 +87,16 @@ By addressing inefficiencies, companies can significantly improve overall call c
 ## 📊 Visual Insights
 
 ### Operator Performance Distribution
-![Operator Performance]https://github.com/JuanCa85/call-center-operations-optimization/blob/main/images/operator_performance.png
+![Operator Performance](https://github.com/JuanCa85/call-center-operations-optimization/blob/main/images/operator_performance.png)
 
 ### Call Handling Time Analysis
-![Call Duration]https://github.com/JuanCa85/call-center-operations-optimization/blob/main/images/call_duration.png
+![Call Duration](https://github.com/JuanCa85/call-center-operations-optimization/blob/main/images/call_duration.png)
 
 ### Call Volume Analysis
-![Call Volume]https://github.com/JuanCa85/call-center-operations-optimization/blob/main/images/missed_vs_calls.png
+![Call Volume](https://github.com/JuanCa85/call-center-operations-optimization/blob/main/images/missed_vs_calls.png)
 
 ### KPI Comparison
-![KPI Analysis]https://github.com/JuanCa85/call-center-operations-optimization/blob/main/images/kpi_analysis.png
+![KPI Analysis](https://github.com/JuanCa85/call-center-operations-optimization/blob/main/images/kpi_analysis.png)
 
 ---
 
