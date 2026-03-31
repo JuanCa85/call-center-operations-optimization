@@ -1,6 +1,6 @@
 # 📞 Call Center Operations Optimization
 
-Analyzed call center operations to identify inefficiencies, optimize resource allocation, and improve service performance through data-driven insights.
+Analyzed call center operations to identify inefficiencies, optimize resource allocation, and improve service performance by leveraging KPI-driven insights.
 
 ---
 
