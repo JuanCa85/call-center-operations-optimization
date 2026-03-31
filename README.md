@@ -7,8 +7,8 @@ Analyzed call center operations to identify inefficiencies, optimize resource al
 ## ⚡ TL;DR
 
 - Identified underperforming operators using KPI analysis  
-- Detected inefficiencies in workload distribution  
-- Proposed data-driven actions to improve operational efficiency   
+- Detected inefficiencies in workload distribution and missed call rates  
+- Delivered actionable recommendations to improve operational efficiency and service quality   
 
 ---
 
