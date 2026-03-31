@@ -20,6 +20,12 @@ The company needed to identify underperforming operators and understand the root
 
 ---
 
+## 📌 Project Type
+
+Business-focused data analysis project aimed at improving operational efficiency.
+
+---
+
 ## 🎯 Objective
 
 - Detect inefficient operators based on performance metrics  
@@ -86,7 +92,7 @@ This analysis enables organizations to:
 - Optimize resource allocation  
 - Reduce operational costs  
 
-By addressing inefficiencies, companies can significantly improve overall call center performance.
+This analysis supports a shift from reactive to proactive operations management.
 
 ---
 
