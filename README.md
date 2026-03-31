@@ -1,58 +1,126 @@
-# Análisis de eficiencia de operadores (Call Center)
+# 📞 Call Center Operations Optimization
 
-## Descripción del proyecto
+Data analysis project focused on identifying inefficiencies in call center operations and providing actionable recommendations to improve performance and resource allocation.
 
-Este proyecto analiza el desempeño de operadores de un call center con el objetivo de identificar ineficiencias, posibles fallas técnicas y oportunidades de mejora en la operación.
-A través del análisis de KPIs y pruebas estadísticas, se detectaron operadores con bajo rendimiento y se propusieron planes de acción específicos para cada grupo.
+---
 
-### Objetivo
+## ⚡ TL;DR
 
-Identificar operadores con bajo desempeño y proponer estrategias de mejora basadas en datos.
+- Identified underperforming operators using KPI analysis  
+- Detected operational inefficiencies affecting service quality  
+- Proposed data-driven actions to optimize performance and resource allocation  
 
-**Herramientas utilizadas**
+---
 
- - Python
- - Pandas
- - NumPy
- - Análisis estadístico
- - Jupyter Notebook
+## 🚀 Business Problem
 
-**Proceso del análisis**
+Call centers rely heavily on operational efficiency to maintain service quality and control costs.
 
-1. Limpieza y preparación de datos.
-2. Cálculo de KPIs de desempeño.
-3. Análisis exploratorio.
-4. Detección de anomalías.
-5. Pruebas de hipótesis.
-6. Segmentación de operadores.
-7. Propuesta de acciones de mejora.
+The company needed to identify underperforming operators and understand the root causes of inefficiencies impacting performance.
 
-**Resultados principales**
+---
 
- - Identificación de operadores con desempeño por debajo del estándar.
- - Detección de posibles fallas técnicas.
- - Definición de nuevos parámetros de desempeño.
+## 🎯 Objective
 
-**Habilidades demostradas**
+- Detect inefficient operators based on performance metrics  
+- Identify key factors affecting productivity  
+- Provide actionable insights to improve operational efficiency  
 
-- Limpieza y manipulación de datos
- - Análisis de KPIs
- - Pruebas de hipótesis
- - Detección de anomalías
- - Recomendaciones de negocio
+---
 
-   ## Estructura del repositorio
+## 🧠 Approach
 
-├── Proyecto final - Entrega del proyecto.ipynb  
-├── telecom.csv  
-├── telecom_clients.csv  
-├── telecom_dataset_new.csv  
-└── README.md
+1. Data Cleaning & Preparation  
+   - Processed call logs and performance metrics  
+   - Handled missing and inconsistent data  
 
-## Cómo ejecutar el proyecto
+2. Exploratory Data Analysis  
+   - Analyzed call duration, wait times, and operator activity  
+   - Evaluated performance distribution across operators  
 
-1. Clonar el repositorio.
-2. Instalar dependencias:
-   pip install pandas scikit-learn matplotlib seaborn
-3. Abrir el notebook:
-   jupyter notebook customer-churn-prediction.ipynb
+3. KPI Analysis  
+   - Defined key metrics (e.g., handling time, call volume, efficiency)  
+   - Compared operator performance against benchmarks  
+
+4. Insight Generation  
+   - Identified patterns of inefficiency  
+   - Detected outliers and performance gaps  
+
+---
+
+## 📈 Key Insights
+
+- A subset of operators consistently underperformed across multiple KPIs  
+- High call handling time was strongly associated with lower efficiency  
+- Uneven workload distribution contributed to performance gaps  
+
+---
+
+## 💡 Key Takeaway
+
+Operational inefficiencies are driven not only by individual performance but also by workload distribution and process-related factors.
+
+---
+
+## 🧩 Recommendations
+
+- Implement performance monitoring dashboards to track KPIs in real time  
+- Redistribute workload to balance operator performance  
+- Provide targeted training for underperforming operators  
+- Optimize processes to reduce call handling time  
+
+---
+
+## 💼 Business Impact
+
+This analysis enables organizations to:
+
+- Improve operational efficiency  
+- Enhance service quality  
+- Optimize resource allocation  
+- Reduce operational costs  
+
+By addressing inefficiencies, companies can significantly improve overall call center performance.
+
+---
+
+## 📊 Visual Insights
+
+### Operator Performance Distribution
+![Operator Performance]https://github.com/JuanCa85/call-center-operations-optimization/blob/main/images/operator_performance.png
+
+### Call Handling Time Analysis
+![Call Duration]https://github.com/JuanCa85/call-center-operations-optimization/blob/main/images/call_duration.png
+
+### Call Volume Analysis
+![Call Volume]https://github.com/JuanCa85/call-center-operations-optimization/blob/main/images/missed_vs_calls.png
+
+### KPI Comparison
+![KPI Analysis]https://github.com/JuanCa85/call-center-operations-optimization/blob/main/images/kpi_analysis.png
+
+---
+
+## 🛠 Tools & Technologies
+
+- Python (Pandas, NumPy)  
+- Data Visualization (Matplotlib, Seaborn)  
+- Exploratory Data Analysis  
+- KPI Analysis  
+
+---
+
+## 📁 Project Structure
+
+call-center-operations-optimization/
+│  
+├── data/  
+├── notebooks/  
+├── images/  
+└── README.md  
+
+---
+
+## 📌 Author
+
+Juan Carlos Vértiz Millán  
+Data Analyst | Python • SQL • Power BI
