@@ -1,14 +1,14 @@
 # 📞 Call Center Operations Optimization
 
-Data analysis project focused on identifying inefficiencies in call center operations and providing actionable recommendations to improve performance and resource allocation.
+Analyzed call center operations to identify inefficiencies, optimize resource allocation, and improve service performance through data-driven insights.
 
 ---
 
 ## ⚡ TL;DR
 
 - Identified underperforming operators using KPI analysis  
-- Detected operational inefficiencies affecting service quality  
-- Proposed data-driven actions to optimize performance and resource allocation  
+- Detected inefficiencies in workload distribution  
+- Proposed data-driven actions to improve operational efficiency   
 
 ---
 
@@ -25,6 +25,12 @@ The company needed to identify underperforming operators and understand the root
 - Detect inefficient operators based on performance metrics  
 - Identify key factors affecting productivity  
 - Provide actionable insights to improve operational efficiency  
+
+---
+
+## 💡 Key Takeaway
+
+Operational inefficiencies are driven not only by individual performance but also by workload imbalance and process inefficiencies.
 
 ---
 
@@ -88,6 +94,8 @@ By addressing inefficiencies, companies can significantly improve overall call c
 
 ### Operator Performance Distribution
 ![Operator Performance](https://github.com/JuanCa85/call-center-operations-optimization/blob/main/images/operator_performance.png)
+
+Significant variability in call volume across operators suggests uneven workload distribution.
 
 ### Call Handling Time Analysis
 ![Call Duration](https://github.com/JuanCa85/call-center-operations-optimization/blob/main/images/call_duration.png)
