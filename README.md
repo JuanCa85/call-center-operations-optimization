@@ -92,7 +92,7 @@ This analysis enables organizations to:
 - Optimize resource allocation  
 - Reduce operational costs  
 
-This analysis supports a shift from reactive to proactive operations management.
+This analysis enables a shift from reactive to proactive operations management.
 
 ---
 
